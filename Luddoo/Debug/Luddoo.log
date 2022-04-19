@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+h:\university\projects\luddoo\luddoo\myform.h(1360): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+h:\university\projects\luddoo\luddoo\myform.cpp(6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.5.1.AssemblyAttributes.cpp
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Luddoo.vcxproj -> H:\university\projects\Luddoo\Debug\Luddoo.exe
